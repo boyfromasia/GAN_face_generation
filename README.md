@@ -1,6 +1,6 @@
 # Generating Anime Faces using StyleGAN
 
-![alt text](screenshots\fakes.png)
+![alt text](screenshots/fakes.png)
 
 ## Getting start
 
@@ -17,11 +17,11 @@ streamlit run streamlit_face_generation.py
 ```
 
 To get result go to `http://localhost:8501/` and you will see:
-![alt text](screenshots\start.png)
+![alt text](screenshots/start.png)
 
 To generate Faces just choose Truncation PSI threshold and click
 `Generate Face` button. So you will see the results:
-![alt text](screenshots\res.png)
+![alt text](screenshots/res.png)
 
 All generated faces will be saved in `\out` folder.
 
