@@ -1,0 +1,7 @@
+ninja==1.11.1
+pytorch==1.13.0
+torchvision==0.14.0
+streamlit==1.22.0
+numpy==1.22.3
+pillow==9.2.0
+scipy==1.9.3
